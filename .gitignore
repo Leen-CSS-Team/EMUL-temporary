@@ -1,0 +1,20 @@
+# text files
+/text
+/tree.txt
+# Mac os
+.DS_Store
+/less-watch-compiler.config
+# vscode
+.vscode/settings.json
+.vs/EMUL/v16/.suo
+.vs/VSWorkspaceState.json
+.vs/ProjectSettings.json
+/.vscode
+.vs/slnx.sqlite
+
+# vs
+/.vs
+
+node_modules
+/less-watch-compiler.config.json
+/bulid
